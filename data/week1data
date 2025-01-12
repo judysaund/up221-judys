@@ -1,0 +1,15 @@
+Ellis Act Application Data
+Los Angeles Housing Department (LAHD) has a list of addresses that have had an Ellis Act Application filed between 2007-2025. The data also includes the APN, council district each address resides in, the number of units withdrawn from the market, and the number of replacement units built.
+(https://housing.lacity.gov/ellis)
+
+Demolition Permit Data
+Los Angeles Department of Building and Safety (LADBS) has a list of demolition permits issued between 2013-2023. The data includes the addresses APN, type of building the permit was request for, and the name of the business requesting the demolition.
+(https://data.lacity.org/A-Prosperous-City/New-Alter-Demolition/uepv-62ca)
+
+City Council Districts
+The following data is an outline of the City of Los Angeles city council districts, most recently updated in 2021.
+(https://geohub.lacity.org/maps/76104f230e384f38871eb3c4782f903d)
+
+AMI by Census Tract
+The following data is statistics on median household income, area median income (AMI) category based on median household income, and comparing median household income to AMI categories by census tract in LA County. The data was most recently updated in 2023.
+(https://geohub.lacity.org/datasets/5455a5c504064c38b5ac9638d8580d92_0/explore?location=33.772002%2C-118.302668%2C8.50)
