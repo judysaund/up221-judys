@@ -33,6 +33,7 @@ This research is vital given Los Angeles' ongoing housing crisis, where rising r
 ### **Pending Data**
 - **Land Use Covenants and Ownership Data**: This data has been requested from the Los Angeles Housing Department (LAHD) and will provide insights into the roles of for-profit versus nonprofit developers in replacing RSO units and their mix of affordable units.
 - **ED1 and TOC Development Data**: This data has been requested from the Los Angeles Planning Department and will provide insights into the location of housing developments that have utilized these policy benefits.
+- **Demolition Permits (2007-2012, and 2024)**: This data has been requested from the Los Angeles Department of Building Services (LADBS).
 
 ## **Scope and Intended Analysis**
 1. **Analyze Demolition Patterns**: Identify trends in RSO demolitions over time, examining which neighborhoods and Council Districts are most affected.
