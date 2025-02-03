@@ -30,18 +30,21 @@ This research is vital given Los Angeles' ongoing housing crisis, where rising r
   - [Parcel Data (2006-present)](https://data.lacounty.gov/datasets/lacounty::assessor-parcel-summary-rolls-2006-present/explore)
 - **Description**: Geospatial information on parcels that show changes over time. This data will support mapping and spatial analysis of demolition sites and replacements.
 
-### **Pending Data**
-- **Land Use Covenants and Ownership Data**: This data has been requested from the Los Angeles Housing Department (LAHD) and will provide insights into the roles of for-profit versus nonprofit developers in replacing RSO units and their mix of affordable units.
-- **ED1 and TOC Development Data**: This data has been requested from the Los Angeles Planning Department and will provide insights into the location of housing developments that have utilized these policy benefits.
-- **Demolition Permits (2007-2012, and 2024)**: This data has been requested from the Los Angeles Department of Building Services (LADBS).
+### **3. Land Use Covenants**
+- **Source**: LA City Controller.
+- **Links**:
+  - [Land Use Covenants (1985-2022)]([https://data.lacounty.gov/datasets/lacounty::assessor-parcel-summary-rolls-2006-present/explore](https://docs.google.com/spreadsheets/u/3/d/1gG_-kU8JxEPEnvjRrvTobYSs_dzRpMZs/edit?usp=sharing&ouid=112354903454043925372&rtpof=true&sd=true))
+- **Description**: Spreadsheet provides data on housing developments, their unit affordability mix, and housing policies the developments were entitled under.
+
+### **4. Executive Directive 1**
+- **ED1**: THe following link includes all development projects that have a completed entitlement under Executive Directive 1.
+- **Links**:
+  - [Projects Entitled Under ED1]([[https://data.lacounty.gov/datasets/lacounty::assessor-parcel-summary-rolls-2006-present/explore](https://docs.google.com/spreadsheets/u/3/d/1gG_-kU8JxEPEnvjRrvTobYSs_dzRpMZs/edit?usp=sharing&ouid=112354903454043925372&rtpof=true&sd=true)](https://planning.lacity.gov/project-review/executive-directive-1#resources))
 
 ## **Scope and Intended Analysis**
 1. **Analyze Demolition Patterns**: Identify trends in RSO demolitions over time, examining which neighborhoods and Council Districts are most affected.
-2. **Evaluate Developer Characteristics**: Assess the contributions of for-profit versus nonprofit developers in producing replacement housing, using land use covenants and ownership data.
-3. **Geospatial Analysis**: Map demolition and replacement sites to evaluate their spatial distribution and relationship to transit access and Council Districts.
-4. **Quantify Net Affordable Units**: Analyze whether there has been a net positive in affordable housing units as a result of RSO demolitions and calculate the total number of new units added to Los Angeles.
-5. **Quantitative Methods**: Use regression analysis or clustering techniques to identify factors associated with demolition rates and developer participation.
-6. **Visualizations**: Create maps, graphs, and charts to illustrate spatial patterns, net affordable unit changes, and trends over time.
+2. **Evaluate Development Characteristics**: Assess the change in housing stock, both market rate and affordable. Analyze whether there has been a net positive in affordable housing units as a result of RSO demolitions and calculate the total number of new units added to Los Angeles.
+3. **Geospatial Analysis**: Map demolition and replacement sites to evaluate their spatial distribution and relationship to Council Districts.
 
 ## **Conclusion**
 This project will provide valuable insights into the dynamics of RSO demolitions, the role of developers, and the net impact on affordable housing in Los Angeles. By identifying disparities and gaps in housing replacement strategies and assessing policy-driven housing outcomes, the research aims to inform recommendations that promote sustainable and inclusive urban development.
