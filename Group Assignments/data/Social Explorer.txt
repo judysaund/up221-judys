@@ -1,0 +1,213 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13799721
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2023 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2023 (5-Year Estimates)
+Tables:
+
+      1. Household Income in the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Additional Version)
+         Universe:  Universe:  Occupied housing units
+         Name:      A14002
+         Variables:
+            A14002_001:   Occupied Housing Units:
+            A14002_002:      Less than $5,000
+            A14002_003:      $5,000 to $9,999
+            A14002_004:      $10,000 to $14,999
+            A14002_005:      $15,000 to $19,999
+            A14002_006:      $20,000 to $24,999
+            A14002_007:      $25,000 to $34,999
+            A14002_008:      $35,000 to $49,999
+            A14002_009:      $50,000 to $74,999
+            A14002_010:      $75,000 to $99,999
+            A14002_011:      $100,000 to $149,999
+            A14002_012:      $150,000 or More
+
+
+      2. Race
+         Universe:  Total Population
+         Name:      A03001
+         Variables:
+            A03001_001:   Total Population:
+            A03001_002:      White Alone
+            A03001_003:      Black or African American Alone
+            A03001_004:      American Indian and Alaska Native Alone
+            A03001_005:      Asian Alone
+            A03001_006:      Native Hawaiian and Other Pacific Islander Alone
+            A03001_007:      Some Other Race Alone
+            A03001_008:      Two or More Races
+
+
+      3. Gross Rent as a Percentage of Household Income in the Past 12 Months (Dollars)
+         Universe:  Renter-occupied housing units
+         Name:      A18002
+         Variables:
+            A18002_001:   Renter-Occupied Housing Units:
+            A18002_002:      Less than 10 Percent
+            A18002_003:      10 to 29 Percent
+            A18002_004:      30 to 49 Percent
+            A18002_005:      50 Percent or More
+            A18002_006:      Not Computed
+
+
+      4. Residents Paying More Than 30% or at least 50% of Income on Rent
+         Universe:  Renter-Occupied Housing Units
+         Name:      B18002
+         Variables:
+            B18002_001:   Renter-Occupied Housing Units:
+            B18002_002:      30 to 49 Percent
+            B18002_003:      50 percent or More
+
+
+      5. Total Population
+         Universe:  Total Population
+         Name:      A00001
+         Variables:
+            A00001_001:   Total Population
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      QName:          Qualifying Name
+      STUSAB:         State Postal Abbreviation
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      US:             US
+      REGION:         Census Region
+      DIVISION:       Census Division
+      STATE:          State (FIPS Code)
+      COUNTY:         County of current residence
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/AlaskaNative Area/ Hawaiian Home Land(Census)
+      AIANHHFP:       American Indian Area/AlaskaNative Area/ Hawaiian Home Land(FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITS:           American Indian TribalSubdivision (FIPS)
+      ANRC:           Alaska Native RegionalCorporation (FIPS)
+      CBSA:           Metropolitan and MicropolitanStatistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Statistical Area-Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/MicropolitanIndicator Flag
+      NECTA:          New England City and Town Area
+      CNECTA:         New England City and TownCombined Statistical Area
+      NECTADIV:       New England City and Town AreaDivision
+      UA:             Urban Area
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          5-digit ZIP Code Tabulation Area
+      SUBMCD:         Subminor Civil Division (FIPS)
+      SDELM:          State-School District (Elementary)
+      SDSEC:          State-School District (Secondary)
+      SDUNI:          State-School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      PUMA5:          Public Use Microdata Area – 5%File
+      GEO_ID:         Geographic Identifier
+      NAME:           Area Name
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PLACESE:        Place (State FIPS + Place FIPS)
+      A14002_001:     Occupied Housing Units
+      A14002_002:     Occupied Housing Units: Less than $5,000
+      A14002_003:     Occupied Housing Units: $5,000 to $9,999
+      A14002_004:     Occupied Housing Units: $10,000 to $14,999
+      A14002_005:     Occupied Housing Units: $15,000 to $19,999
+      A14002_006:     Occupied Housing Units: $20,000 to $24,999
+      A14002_007:     Occupied Housing Units: $25,000 to $34,999
+      A14002_008:     Occupied Housing Units: $35,000 to $49,999
+      A14002_009:     Occupied Housing Units: $50,000 to $74,999
+      A14002_010:     Occupied Housing Units: $75,000 to $99,999
+      A14002_011:     Occupied Housing Units: $100,000 to $149,999
+      A14002_012:     Occupied Housing Units: $150,000 or More
+      PCT_A14002_002: % Occupied Housing Units: Less than $5,000
+      PCT_A14002_003: % Occupied Housing Units: $5,000 to $9,999
+      PCT_A14002_004: % Occupied Housing Units: $10,000 to $14,999
+      PCT_A14002_005: % Occupied Housing Units: $15,000 to $19,999
+      PCT_A14002_006: % Occupied Housing Units: $20,000 to $24,999
+      PCT_A14002_007: % Occupied Housing Units: $25,000 to $34,999
+      PCT_A14002_008: % Occupied Housing Units: $35,000 to $49,999
+      PCT_A14002_009: % Occupied Housing Units: $50,000 to $74,999
+      PCT_A14002_010: % Occupied Housing Units: $75,000 to $99,999
+      PCT_A14002_011: % Occupied Housing Units: $100,000 to $149,999
+      PCT_A14002_012: % Occupied Housing Units: $150,000 or More
+      A03001_001:     Total Population:
+      A03001_002:     Total Population: White Alone
+      A03001_003:     Total Population: Black or African American Alone
+      A03001_004:     Total Population: American Indian and Alaska Native Alone
+      A03001_005:     Total Population: Asian Alone
+      A03001_006:     Total Population: Native Hawaiian and Other Pacific Islander Alone
+      A03001_007:     Total Population: Some Other Race Alone
+      A03001_008:     Total Population: Two or More Races
+      PCT_A03001_002: % Total Population: White Alone
+      PCT_A03001_003: % Total Population: Black or African American Alone
+      PCT_A03001_004: % Total Population: American Indian and Alaska Native Alone
+      PCT_A03001_005: % Total Population: Asian Alone
+      PCT_A03001_006: % Total Population: Native Hawaiian and Other Pacific Islander Alone
+      PCT_A03001_007: % Total Population: Some Other Race Alone
+      PCT_A03001_008: % Total Population: Two or More Races
+      A18002_001:     Renter-Occupied Housing Units:
+      A18002_002:     Renter-Occupied Housing Units: Less than 10 Percent
+      A18002_003:     Renter-Occupied Housing Units: 10 to 29 Percent
+      A18002_004:     Renter-Occupied Housing Units: 30 to 49 Percent
+      A18002_005:     Renter-Occupied Housing Units: 50 Percent or More
+      A18002_006:     Renter-Occupied Housing Units: Not Computed
+      PCT_A18002_002: % Renter-Occupied Housing Units: Less than 10 Percent
+      PCT_A18002_003: % Renter-Occupied Housing Units: 10 to 29 Percent
+      PCT_A18002_004: % Renter-Occupied Housing Units: 30 to 49 Percent
+      PCT_A18002_005: % Renter-Occupied Housing Units: 50 Percent or More
+      PCT_A18002_006: % Renter-Occupied Housing Units: Not Computed
+      B18002_001:     Renter-Occupied Housing Units
+      B18002_002:     Renter-Occupied Housing Units: 30 to 49 Percent
+      B18002_003:     Renter-Occupied Housing Units: 50 percent or More
+      PCT_B18002_002: % Renter-Occupied Housing Units: 30 to 49 Percent
+      PCT_B18002_003: % Renter-Occupied Housing Units: 50 percent or More
+      A00001_001:     Total Population
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2025
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13799721
+
+If you have any questions contact info@socialexplorer.com
